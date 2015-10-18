@@ -7,7 +7,7 @@ DC Python Member Documentation
 ==============================
 
 .. image:: /_static/dcpython-laptop.jpg
-    :class: img-thumbnail block-center
+    :class: img-thumbnail center-block
 
 .. toctree::
    :maxdepth: 2
