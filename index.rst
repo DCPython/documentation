@@ -9,6 +9,9 @@ DC Python Member Documentation
 .. image:: /_static/dcpython-laptop.jpg
     :class: img-thumbnail center-block
 
+Table of Contents
+-----------------
+
 .. toctree::
    :maxdepth: 2
 
