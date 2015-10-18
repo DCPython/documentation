@@ -6,5 +6,10 @@
 DC Python Member Documentation
 ==============================
 
+.. image:: /_static/dcpython-laptop.jpg
+    :class: img-thumbnail
+
 .. toctree::
    :maxdepth: 2
+
+   about.rst
