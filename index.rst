@@ -16,3 +16,4 @@ Table of Contents
    :maxdepth: 2
 
    about.rst
+   jobs.rst
