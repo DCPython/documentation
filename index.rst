@@ -9,11 +9,15 @@ DC Python Documentation
 .. image:: /_static/dcpython-laptop.jpg
     :class: img-thumbnail center-block
 
+About
+-----
+
+`We <http://dcpython.org>`_ promote and support the use of Python software in DC.
+
 Table of Contents
 -----------------
 
 .. toctree::
    :maxdepth: 2
 
-   about.rst
-   jobs.rst
+   job-board.rst
