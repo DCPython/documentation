@@ -1,5 +1,5 @@
-Jobs
-----
+Job Board
+---------
 
 **Please follow these steps to post to the DC Python Job Board**. 
 
