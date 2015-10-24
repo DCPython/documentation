@@ -1,13 +1,13 @@
 Jobs
 ----
 
-**Please follow these rules to post to the DC Python Job Board**. 
+**Please follow these steps to post to the DC Python Job Board**. 
 
-1. Join the DC Python Meetup: http://www.meetup.com/DCPython/join/.
+- Join the DC Python Meetup: http://www.meetup.com/DCPython/join/.
 
-#. Create a job posting: http://www.meetup.com/DCPython/messages/boards/forum/617991.
+- Create a job posting: http://www.meetup.com/DCPython/messages/boards/forum/617991.
 
-#. Send a link to your post to the DC Python mailing list: `DCPython-list@meetup.com <mailto:DCPython-list@meetup.com>`_.
+- Send a link to your post to the DC Python mailing list: `DCPython-list@meetup.com <mailto:DCPython-list@meetup.com>`_.
 
   - **Include [JOB] in the subject line, some brief introductory text, a link to your post & nothing else. E.g.**
 
